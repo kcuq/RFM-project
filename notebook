@@ -1,0 +1,5 @@
+git clone
+git add D:\Tự học\Học DA\Project\RFM project\RFM project.ipynb
+git add .
+git commit -m "Add D:\Tự học\Học DA\Project\RFM project\RFM project.ipynb"
+git push origin main
